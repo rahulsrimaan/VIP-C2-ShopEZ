@@ -2,7 +2,7 @@
 
 > A complete, production-ready e-commerce web application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
-![ShopEZ Banner](https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1200&h=300&fit=crop)
+
 
 ---
 
