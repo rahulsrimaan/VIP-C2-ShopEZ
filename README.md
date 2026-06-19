@@ -371,7 +371,7 @@ Body: { "username": "Admin", "email": "admin@shopez.com", "password": "admin123"
 
 ##  Developer
 Musiboina Rahul Srimaan
-Built using the MERN Stack
+Built using MERN Stack
 
 **Tech Used:** MongoDB • Express.js • React.js • Node.js • JWT • bcrypt
 
