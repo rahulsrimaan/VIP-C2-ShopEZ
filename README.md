@@ -1,6 +1,6 @@
 #  ShopEZ — Full Stack E-Commerce Platform
 
-> A complete, production-ready e-commerce web application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js
+> A complete, production-ready e-commerce web application built with the MERN Stack (MongoDB, Express.js, React.js, Node.js)
 ---
 ##  Table of Contents
 
